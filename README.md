@@ -72,6 +72,9 @@ const aivee = {
 
 ## 🌐 Let's Connect & Collaborate
 
+<a href="aiveejoyba@gmail.com" target="_blank"> 
+  <img src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" height="50" style="border-radius:50%">
+</a>
 <a href="https://www.facebook.com/eevialday24" target="_blank"> 
   <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19757.png" height="50" style="border-radius:50%">
 </a>
@@ -80,6 +83,9 @@ const aivee = {
 </a>
 <a href="tiktok.com/@2ivcrafts" target="_blank"> 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/tiktok-logo-01-freelogovectors.net_.png" height="50" style="border-radius:50%">
+</a>
+<a href="tiktok.com/@2ivcrafts" target="_blank"> 
+  <img src="https://bestsecuritysearch.com/wp-content/uploads/2016/10/discord-logo-bss.png" height="50" style="border-radius:50%">
 </a>
 
 </div>
