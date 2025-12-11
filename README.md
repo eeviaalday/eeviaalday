@@ -75,7 +75,7 @@ const aivee = {
 <a href="aiveejoyba@gmail.com" target="_blank"> 
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" height="50" style="border-radius:50%">
 </a>
-<a href="https://www.facebook.com/eevialday24" target="_blank"> 
+<a href="https://www.facebook.com/eevialday24?mibextid=ZbWKwL" target="_blank"> 
   <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19757.png" height="50" style="border-radius:50%">
 </a>
 <a href="https://www.instagram.com/2ivcrafts" target="_blank"> 
