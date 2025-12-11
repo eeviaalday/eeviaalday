@@ -1,64 +1,72 @@
-# 👋 Hi, I'm Aivee Joy B. Alday  
-*Aspiring Developer | Tech Learner | Creative Problem Solver*
+<!-- ===== PROFILE HEADER ===== -->
+<h1 align="center">👋 Hi, I'm <strong>Aivee Joy B. Alday</strong></h1>
+<p align="center">Aspiring Web Developer • Tech Learner • Creative Thinker</p>
 
-Welcome to my GitHub profile! I’m currently learning the fundamentals of programming and building small projects as I grow my skills. I enjoy combining creativity with technology — from crafting to developing simple but functional applications.
+<br>
 
----
-
+<!-- ===== ABOUT SECTION ===== -->
 ## 🚀 About Me
-- 🎓 Beginner developer exploring **web development** and **GitHub workflow**
-- 💡 Interested in front-end development and intuitive UI designs
-- 🧵 Small business owner (2ivCrafts) — crafting handmade products
-- 📚 Always learning and improving through hands-on projects
+I am an aspiring developer currently learning the foundations of programming and web development.  
+I enjoy building clean, simple, and user-friendly interfaces — and I’m constantly improving by creating small projects that challenge me.
 
----
+- 🎓 Beginner in **front-end development**
+- 🧵 Small business owner of **2ivCrafts**
+- 💡 Passionate about design, user experience, and solving problems with code
+- 📚 Actively learning and growing through hands-on practice
 
+<br>
+
+<!-- ===== TECH STACK ===== -->
 ## 🛠️ Skills & Technologies
-**Languages & Tools**
-- HTML  
-- CSS  
-- Git & GitHub  
-- Visual Studio Code  
+<p>
+  • **Front-End:** HTML, CSS  
+  • **Tools:** Git, GitHub, VS Code  
+  • **Learning:** JavaScript, UI/UX basics  
+</p>
 
-**Currently Learning**
-- JavaScript  
-- Basic Programming Concepts  
+<br>
 
----
-
+<!-- ===== GITHUB OVERVIEW ===== -->
 ## 📊 GitHub Overview
-> *(This section is intentionally simple and professional — not auto-generated, so it won’t look like anyone else’s.)*
+A concise summary of my current GitHub activity and progress:
 
 | Metric | Status |
 |--------|--------|
-| ⭐ Total Stars | 0 |
+| ⭐ Stars | 0 |
 | 📦 Public Repositories | 2 |
-| 📝 Commits | Actively contributing |
-| 🔄 Project Status | Growing & improving |
+| 📝 Commit Activity | Improving consistently |
+| 🔧 Focus Area | Front-end development |
 
----
+<br>
 
+<!-- ===== PROJECTS ===== -->
 ## 📌 Featured Projects
-### 🔹 **Online Ordering System for 2ivCrafts**
-A prototype system designed for managing product browsing, ordering, and customer interactions.  
-**Tech:** HTML, CSS, basic logic & structure  
-**Status:** In progress
 
-### 🔹 **Personal Portfolio Website**
-Hosted on GitHub Pages to showcase my skills, projects, and journey as a developer.  
-**URL:** https://eeviaalday.github.io  
-**Status:** Ongoing development
+### 🟣 **Online Ordering System for 2ivCrafts**
+A prototype system created to support product browsing and ordering for my handmade craft business.  
+**Tech Used:** HTML, CSS  
+**Status:** In development
 
 ---
 
+### 🔵 **Personal Portfolio (GitHub Pages)**
+A simple portfolio website designed to showcase my skills, projects, and learnings.  
+**Link:** https://eeviaalday.github.io  
+**Status:** Ongoing updates
+
+<br>
+
+<!-- ===== CONTACT ===== -->
 ## 🌐 Connect With Me
-- 📧 Email: aiveejoyba@gmail.com  
-- 🌍 GitHub Pages: https://eeviaalday.github.io  
-- 📘 Facebook: eeviaalday24  
-- 🧵 Tiktok (2ivCrafts): @2ivcrafts  
+- 📧 **Email:** aiveejoyba@gmail.com  
+- 🌍 **GitHub Pages:** https://eeviaalday.github.io  
+- 📘 **Facebook:** eeviaalday24  
+- 🧵 **TikTok (2ivCrafts):** @2ivcrafts  
+
+<br>
+
+<!-- ===== FOOTER ===== -->
+## 🧭 Personal Philosophy
+> “Growth doesn’t happen overnight — but consistency makes everything possible.”
 
 ---
-
-## 💬 Personal Quote
-> *“Every expert was once a beginner — and every step forward counts.”*
-
