@@ -1,45 +1,64 @@
-## 📊 My GitHub Metrics Summary
+# 👋 Hi, I'm Aivee Joy B. Alday  
+*Aspiring Developer | Tech Learner | Creative Problem Solver*
 
-| Metric | Value | Trend |
-|--------|-------|-------|
-| **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/eeviaalday&query=stars&label=Stars&color=blue) | 📈 |
-| **Total Commits** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/eeviaalday&query=commits&label=Commits&color=green) | 📈 |
-| **Repositories** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/eeviaalday&query=repos&label=Repos&color=orange) | 📈 |
+Welcome to my GitHub profile! I’m currently learning the fundamentals of programming and building small projects as I grow my skills. I enjoy combining creativity with technology — from crafting to developing simple but functional applications.
 
 ---
 
-## 🌟 Recent Activity
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eeviaalday&theme=github-compact&hide_border=true&area=true&custom_title=Aivee's%20Coding%20Activity" width="90%">
-</div>
-
-
-# Social Media Accounts
-<a href="https://www.facebook.com/eevialday24?mibextid=ZbWKwL" target="blank" ><img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg?raw=true" height="50" widht="50"></a>
-<a href="https://www.instagram.com/2ivcrafts?igsh=MTR4bGk2b2d1ZG9sOQ==" target="blank" ><img src="https://i.pinimg.com/736x/58/a2/be/58a2bec02ecb40d12e507e2a212c46c6.jpg?raw=true" height="50" widht="50"></a>
-<a href="tiktok.com/@2ivcrafts" target="blank" ><img src="https://i.pinimg.com/736x/09/43/6c/09436cae0890444c40626329c65075b2.jpg?raw=true" height="50" widht="50"></a>
-
- ## MY GITHUB STATS
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeviaalday&show_icons=true&theme=radical)
-
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eeviaalday&theme=radical)](https://git.io/streak-stats)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eeviaalday&layout=compact&theme=radical&hide_border=true&v=1)
+## 🚀 About Me
+- 🎓 Beginner developer exploring **web development** and **GitHub workflow**
+- 💡 Interested in front-end development and intuitive UI designs
+- 🧵 Small business owner (2ivCrafts) — crafting handmade products
+- 📚 Always learning and improving through hands-on projects
 
 ---
 
-## 🎯 Profile Views Counter
-![Profile Views](https://komarev.com/ghpvc/?username=eeviaalday&style=flat-square&color=blue)
+## 🛠️ Skills & Technologies
+**Languages & Tools**
+- HTML  
+- CSS  
+- Git & GitHub  
+- Visual Studio Code  
+
+**Currently Learning**
+- JavaScript  
+- Basic Programming Concepts  
 
 ---
 
-# 📝 CREDITS
-- **MishManners®™** AKA the Hackathon Queen®™ - For inspiration[citation:6]
-- **Anurag Hazra** - For [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)[citation:2]
-- **All contributors** to the repositories I've used and learned from!
+## 📊 GitHub Overview
+> *(This section is intentionally simple and professional — not auto-generated, so it won’t look like anyone else’s.)*
+
+| Metric | Status |
+|--------|--------|
+| ⭐ Total Stars | 0 |
+| 📦 Public Repositories | 2 |
+| 📝 Commits | Actively contributing |
+| 🔄 Project Status | Growing & improving |
 
 ---
+
+## 📌 Featured Projects
+### 🔹 **Online Ordering System for 2ivCrafts**
+A prototype system designed for managing product browsing, ordering, and customer interactions.  
+**Tech:** HTML, CSS, basic logic & structure  
+**Status:** In progress
+
+### 🔹 **Personal Portfolio Website**
+Hosted on GitHub Pages to showcase my skills, projects, and journey as a developer.  
+**URL:** https://eeviaalday.github.io  
+**Status:** Ongoing development
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: aiveejoyba@gmail.com  
+- 🌍 GitHub Pages: https://eeviaalday.github.io  
+- 📘 Facebook: eeviaalday24  
+- 🧵 Tiktok (2ivCrafts): @2ivcrafts  
+
+---
+
+## 💬 Personal Quote
+> *“Every expert was once a beginner — and every step forward counts.”*
+
