@@ -72,19 +72,16 @@ const aivee = {
 
 ## 🌐 Let's Connect & Collaborate
 
-<a href="aiveejoyba@gmail.com" target="_blank"> 
-  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" height="50" style="border-radius:50%">
-</a>
 <a href="https://www.facebook.com/eevialday24?mibextid=ZbWKwL" target="_blank"> 
   <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19757.png" height="50" style="border-radius:50%">
 </a>
 <a href="https://www.instagram.com/2ivcrafts" target="_blank"> 
   <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" height="50" style="border-radius:50%">
 </a>
-<a href="tiktok.com/@2ivcrafts" target="_blank"> 
+<a href="https://www.tiktok.com/@2ivcrafts?_r=1&_t=ZS-92GDxsS0z3P" target="_blank"> 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/tiktok-logo-01-freelogovectors.net_.png" height="50" style="border-radius:50%">
 </a>
-<a href="tiktok.com/@2ivcrafts" target="_blank"> 
+<a href="https://discord.com/users/1448612152842653800" target="_blank"> 
   <img src="https://png.pngitem.com/pimgs/s/108-1085068_transparent-background-discord-logo-png-png-download.png" height="50" style="border-radius:50%">
 </a>
 
